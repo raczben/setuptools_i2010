@@ -1,6 +1,8 @@
 .eggs/*
 build/*
 dist/*
+errorenv/*
+
 AUTHORS
 ChangeLog
 *.egg-info/*
