@@ -1,0 +1,6 @@
+.eggs/*
+build/*
+dist/*
+AUTHORS
+ChangeLog
+*.egg-info/*
